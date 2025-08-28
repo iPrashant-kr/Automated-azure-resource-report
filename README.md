@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure Resource Provisioning Delta Report
 
 This project provides a **local Python script** to fetch details of all Azure resources provisioned in the last 30 days and compare them with the previous 30 days.  
@@ -62,3 +63,7 @@ git push -u origin main
 ## Notes
 - Ensure Activity Logs retention is >= 60 days (default is 90).
 - If your tenant has custom resource providers, review raw events to fine-tune classification.
+=======
+# Automated-azure-resource-report
+Automation to fetch Resouces created within a duration.
+
